@@ -5,9 +5,11 @@ Shell built in C, running all the basic commands.
 ### Usage Instructions:
 
 get shell executable first:
-
 gcc shell.c -o myshell
-create run executable then - gcc run.c -o pnpshell
+
+create run executable:
+- gcc run.c -o pnpshell
+
 Usage - ./pnpshell
 
 ### Instructions supported in PnPShell :
