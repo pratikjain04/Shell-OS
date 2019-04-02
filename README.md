@@ -1,7 +1,16 @@
 # Shell-OS
 Shell built in C, running all the basic commands.
 
-Instructions to support :
+
+### Usage Instructions:
+
+get shell executable first:
+
+gcc shell.c -o myshell
+create run executable then - gcc run.c -o pnpshell
+Usage - ./pnpshell
+
+### Instructions supported in PnPShell :
 *  cd <dir>                                 
 *  pwd                                     
 *  mkdir <dir>                            
